@@ -1,6 +1,6 @@
 # Awesome Quantum Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).
+This is the code for [this](https://youtu.be/DmzWsvb-Un4) video on Youtube by Siraj Raval. Credits for compiling this list go to [krishnakumarsekar](https://github.com/llSourcell/quantum_machine_learning). A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).
 
 [![Main Architecture](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Quantum%20Machine%20complete%20Architecture.png)](https://arxiv.org/pdf/1611.09347.pdf)
 
