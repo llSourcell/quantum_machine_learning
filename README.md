@@ -286,7 +286,7 @@ This is the code for [this](https://youtu.be/DmzWsvb-Un4) video on Youtube by Si
 <a name="basics-what-quantum-computing"></a>
 #### What is Quantum Computing?                 
                  
-##### A way of parallel execution of multiple processess in a same time using qubit ,It reduces the computation time and size of the processor probably in neuro size 
+##### A way of parallel execution of multiple processes in a same time using qubit ,It reduces the computation time and size of the processor probably in neuro size 
 
 * [WIKIPEDIA](https://en.wikipedia.org/wiki/Quantum_computing) - Basic History and outline
 * [WEBOPEDIA](http://www.webopedia.com/TERM/Q/quantum_computing.html). - A survey
@@ -589,7 +589,7 @@ This is the code for [this](https://youtu.be/DmzWsvb-Un4) video on Youtube by Si
                                                                    
 [![QNN 1](https://silky.github.io/images/transition-to-quantum-nn.png)](https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html)
 
-##### one line : Its really one of the hardest topic , To understand easily ,Normal Neural Network is doing parallel procss ,QNN is doing parallel of parallel processess ,In theory combination of various activation functions is possible in QNN ,In Normal NN more than one activation function reduce the performance and increase the complexity
+##### one line : Its really one of the hardest topic , To understand easily ,Normal Neural Network is doing parallel procss ,QNN is doing parallel of parallel processes ,In theory combination of various activation functions is possible in QNN ,In Normal NN more than one activation function reduce the performance and increase the complexity
 
 <a name="qnn-perceptron"></a>
 #### Quantum perceptrons
